@@ -20,3 +20,6 @@ As an extra credit option, we wrote all our raw search results and match data to
 
 # CSE182FinalProjectReport.pdf
 A complete description of the workflow used in the project, implementation details, interesting findings, and a reflection on the process as a whole.
+
+# sequences.fasta
+File containing query sequences provided by Dr Vineet Bafna in CSE 182 during Spring of 2017
