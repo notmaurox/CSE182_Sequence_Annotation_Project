@@ -6,7 +6,9 @@ This python script takes in a .fasta file of query sequences, in the context of 
 
 Databases and tools used:
 BLASTp on UniProt(Reviewed Swiss-Prot)Data Base / UniProt database downloaded and BLASTp run locally
+
 HMMScan on Pfam
+
 ExPASy ScanProsite package
 
 # fileUpdater.py
